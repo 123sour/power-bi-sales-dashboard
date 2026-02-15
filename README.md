@@ -1,7 +1,9 @@
 # Sales Performance Dashboard - Power BI
 
 ## Live Dashboard Link
-https://app.powerbi.com/view?r=eyJrIjoiYjk1NGE0ZjktNjAxMi00NDdiLWE0OTgtYzQxZWZhMWY2NDUzIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9
+## Live Dashboard
+[Click Here to View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjk1NGE0Zjkt...)
+
 
 ## Project Description
 This Power BI dashboard analyzes sales, profit, and quantity across regions.
