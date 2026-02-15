@@ -1,6 +1,6 @@
 # Sales Performance Dashboard - Power BI
 
-## Live Dashboard Link
+
 ## Live Dashboard
 [Click Here to View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjk1NGE0Zjkt...)
 
