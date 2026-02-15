@@ -2,7 +2,7 @@
 
 
 ## Live Dashboard
-[Click Here to View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjk1NGE0Zjkt...)
+https://app.powerbi.com/view?r=eyJrIjoiYjk1NGE0ZjktNjAxMi00NDdiLWE0OTgtYzQxZWZhMWY2NDUzIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9
 
 
 ## Project Description
